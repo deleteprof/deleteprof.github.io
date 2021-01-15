@@ -1,87 +1,91 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Eufevio Jimenez Barrica's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Eufevio Jimenez Barrica
+Purok 7, Poblacion Manticao, Misamis Oriental
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="barixs61392@gmail.com">barixs61392@gmail.com</a>
+| <a href="https://www.linkedin.com/in/eufevio-barrica-62733685/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
+### Passion for technology
+I am always eager to develop my skill set. I have experience with computers and IOT
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Quick learner
+I can quickly adapt to new environments and thrive in challenging situations. I bring a positive attitude with me wherever I go and I want to help others with any and all challenges.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - Present`
+__St. Peter’s College, Iligan City.__
+- Bachelor of Science in Civil Engineering    
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012 - 2013`
+__St. Thomas of Villanova Institute in San Augustine Center of Studies, Quezon City__
+- Bachelor of Art in Philosophy
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2011 - 2012`
+__Mindanao State University Naawan, Misamis Oriental__
+- Bachelor of Science in Hotel and Restaurant Management (2011-2012)
 
 
 
-## Publications
+## Experience
+### Senior Pharmacy Assistant   
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2014-present`
+Generika Drugstore, *Naawan, Misamis Oriental*
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Site Computer Support Technician
+'2014-present'
+Generika Drugstore, *Naawan, Misamis Oriental*
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Recognitions
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Certificates
+`April 2014`
+Certificate of Completion Construction Occupational Safety and Health Training
+`October 2014`
+Certificate of Completion Construction Occupational Safety and Health Training
+`May 2017`
+Certificate of Award for Welding Course
+`May 2017`
+Training Certificate SMAW NC II
+`May 2017`
+National Certificate II
+`May 2017`
+Certificate of Participation for Pre-Employment Seminar
+`October 2017`
+Certificate of Participation for Disaster Preparedness & Risk Reduction Seminar
 
+
+
+## Personal Information
+Nickname	  :	Fev/ Barixs
+Gender		  :	Male
+Age		  :	28
+Date of Birth	  :	June 13, 1992
+Place of Birth	  :	Dr. Uy Hospital Iligan City, Lanao del Norte
+Civil Status	  :	Single
+Citizenship	  :	Filipino
+Height		  :	170cm
+Weight		  :	216lb
+Religion	  :	Roman Catholic
+Dialects	  :	Filipino, English, Cebuano & Surigaonon
+Mother’s Name :	Marilou J. Barrica 
+Occupation	  :	Deceased
+Father’s Name	  :	Amadeo Ignacio K. Barrica
+Occupation	  :	None
 
 
 <!-- ### Footer
