@@ -44,7 +44,7 @@ __Mindanao State University Naawan, Misamis Oriental__
 Generika Drugstore, *Naawan, Misamis Oriental*
 
 ### Site Computer Support Technician
-'2014-present'
+`2014-present`
 Generika Drugstore, *Naawan, Misamis Oriental*
 
 
@@ -54,38 +54,34 @@ Generika Drugstore, *Naawan, Misamis Oriental*
 
 ### Certificates
 `April 2014`
-Certificate of Completion Construction Occupational Safety and Health Training
+Certificate of Completion Construction Occupational Safety and Health Training<br>
 `October 2014`
-Certificate of Completion Construction Occupational Safety and Health Training
+Certificate of Completion Construction Occupational Safety and Health Training<br>
 `May 2017`
-Certificate of Award for Welding Course
+Certificate of Award for Welding Course<br>
 `May 2017`
-Training Certificate SMAW NC II
+Training Certificate SMAW NC II<br>
 `May 2017`
-National Certificate II
+National Certificate II<br>
 `May 2017`
-Certificate of Participation for Pre-Employment Seminar
+Certificate of Participation for Pre-Employment Seminar<br>
 `October 2017`
 Certificate of Participation for Disaster Preparedness & Risk Reduction Seminar
 
 
 
 ## Personal Information
-Nickname	  :	Fev/ Barixs
-Gender		  :	Male
-Age		  :	28
-Date of Birth	  :	June 13, 1992
-Place of Birth	  :	Dr. Uy Hospital Iligan City, Lanao del Norte
-Civil Status	  :	Single
-Citizenship	  :	Filipino
-Height		  :	170cm
-Weight		  :	216lb
-Religion	  :	Roman Catholic
-Dialects	  :	Filipino, English, Cebuano & Surigaonon
-Mother’s Name :	Marilou J. Barrica 
-Occupation	  :	Deceased
-Father’s Name	  :	Amadeo Ignacio K. Barrica
-Occupation	  :	None
+**Nickname**	  :	Fev/ Barixs   
+**Gender**:	Male    
+**Age**:	28    
+**Date of Birth**:	June 13, 1992    
+**Place of Birth**:	  	Dr. Uy Hospital Iligan City, Lanao del Norte   
+**Civil Status**:	  	Single   
+**Citizenship**	:  	Filipino    
+**Height**:	170cm    
+**Weight**:	216lb   
+**Religion**:	 	Roman Catholic  
+**Dialects**:   Filipino, English, Cebuano & Surigaonon    
 
 
 <!-- ### Footer
