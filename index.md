@@ -47,6 +47,10 @@ Generika Drugstore, *Naawan, Misamis Oriental*
 `2014-present`
 Generika Drugstore, *Naawan, Misamis Oriental*
 
+### Administrative Assistant
+`2013-2014`
+Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis Oriental*
+
 
 
 ## Recognitions
