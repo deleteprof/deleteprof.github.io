@@ -41,45 +41,45 @@ __Mindanao State University Naawan, Misamis Oriental__
 ### Senior Pharmacy Assistant   
 `2014-2020`
 Generika Drugstore, *Naawan, Misamis Oriental*
-- Prepared packaging and labels for prescriptions, verifying accuracy of dosage, side effects, interactions and refill instructions.
-- Assisted pharmacist by filling prescriptions for Number customers daily and responding to patient questions regarding prescription and medication-specific issues.
-- Processed incoming drug orders.
-- Locate and measure medications according to prescription information, making modifications as instructed by pharmacists and providers.
-- Counted and label prescriptions with correct item and quantity.
-- Monitored inventory levels to inform pharmacists of shortages and facilitate resupply.
-- Handled inventory stock by counting inventory items, checking delivery quantities, reviewing medication expirations and ordering additional products.
-- Completed cash register transactions by handling credit and cash payments using pharmacy register system.
-- Boosted sales and delivered outstanding customer service by assisting customers with pharmacy services, product questions and general store information.			
+- Prepared packaging and labels for prescriptions, verifying accuracy of dosage, side effects, interactions and refill instructions.  
+- Assisted pharmacist by filling prescriptions for Number customers daily and responding to patient questions regarding prescription and medication-specific issues.  
+- Processed incoming drug orders.  
+- Locate and measure medications according to prescription information, making modifications as instructed by pharmacists and providers.  
+- Counted and label prescriptions with correct item and quantity.  
+- Monitored inventory levels to inform pharmacists of shortages and facilitate resupply.  
+- Handled inventory stock by counting inventory items, checking delivery quantities, reviewing medication expirations and ordering additional products.  
+- Completed cash register transactions by handling credit and cash payments using pharmacy register system.  
+- Boosted sales and delivered outstanding customer service by assisting customers with pharmacy services, product questions and general store information.	  		
 
 ### Site Computer Support Technician
 `2014-2020`
 Generika Drugstore, *Naawan, Misamis Oriental*
-- Installing and configuring computer hardware, software, systems, networks, printers, and scanners.
-- Monitoring and maintaining computer systems and networks.
-- Responding in a timely manner to service issues and requests.
-- Providing technical support across the company (this may be in person or over the phone).
-- Setting up accounts for new users.
-- Testing new technology.
-- Possibly Training junior staff.
+- Installing and configuring computer hardware, software, systems, networks, printers, and scanners.  
+- Monitoring and maintaining computer systems and networks.  
+- Responding in a timely manner to service issues and requests.  
+- Providing technical support across the company (this may be in person or over the phone).  
+- Setting up accounts for new users.  
+- Testing new technology.  
+- Possibly Training junior staff.  
 
 ### Administrative Assistant
 `2013-2014`
 Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis Oriental*
-- Coordinated travel arrangements, including booking airfare, hotel and ground transportation.
-- Organized envelopes, postage and mail correspondence for staff and management, maintaining postage meter and coordinating with delivery and courier services.
-- Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.
-- Maintained office supplies inventory by checking stock and ordering new supplies as needed.
-- Wrote and proofread error-free letters, memoranda and other business correspondence.
+- Coordinated travel arrangements, including booking airfare, hotel and ground transportation.  
+- Organized envelopes, postage and mail correspondence for staff and management, maintaining postage meter and coordinating with delivery and courier services.  
+- Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.  
+- Maintained office supplies inventory by checking stock and ordering new supplies as needed.  
+- Wrote and proofread error-free letters, memoranda and other business correspondence.  
 
 ### Admin Support/ VA/ Appointment Setter 
 `2020`
 DIALBOX SOLUTIONS P/L, *Brgy. San Antonio, 17 ADB Ortigas Center Pasig City Philippines*
-- Lead Generation
-- Cold Calling
-- Appointment Setting for INXPRESS Freight and Logistics.
-- Admin Immigration Facebook Page for Australia, doing Advertising.
-- Making Microsoft Office works for company's operational plan.
-- Microsite Admin Support.
+- Lead Generation  
+- Cold Calling  
+- Appointment Setting for INXPRESS Freight and Logistics.  
+- Admin Immigration Facebook Page for Australia, doing Advertising.  
+- Making Microsoft Office works for company's operational plan.  
+- Microsite Admin Support.  
 
 ## Recognitions
 
