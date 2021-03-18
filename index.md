@@ -4,7 +4,7 @@ title: Eufevio Jimenez Barrica's CV
 ---
 # Eufevio Jimenez Barrica
 Purok 7, Poblacion Manticao, Misamis Oriental
--+639263888760
+<br> +639263888760
 
 <div id="webaddress">
 <a href="barixs61392@gmail.com">barixs61392@gmail.com</a>
@@ -40,7 +40,7 @@ __Mindanao State University Naawan, Misamis Oriental__
 ## Experience
 ### Senior Pharmacy Assistant   
 `2014-2020`
-Generika Drugstore, *Naawan, Misamis Oriental*
+__Generika Drugstore, *Naawan, Misamis Oriental*__
 - •	Prepared packaging and labels for prescriptions, verifying accuracy of dosage, side effects, interactions and refill instructions.  
 - • Assisted pharmacist by filling prescriptions for Number customers daily and responding to patient questions regarding prescription and medication issues.  
 - • Processed incoming drug orders.  
@@ -53,7 +53,7 @@ Generika Drugstore, *Naawan, Misamis Oriental*
 
 ### Site Computer Support Technician
 `2014-2020`
-Generika Drugstore, *Naawan, Misamis Oriental*
+__Generika Drugstore, *Naawan, Misamis Oriental*__
 - • Installing and configuring computer hardware, software, systems, networks, printers, and scanners.  
 - • Monitoring and maintaining computer systems and networks.  
 - • Responding in a timely manner to service issues and requests.  
@@ -64,7 +64,7 @@ Generika Drugstore, *Naawan, Misamis Oriental*
 
 ### Administrative Assistant
 `2013-2014`
-Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis Oriental*
+__Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis Oriental*__
 - • Coordinated travel arrangements, including booking airfare, hotel and ground transportation.  
 - • Organized envelopes, postage and mail correspondence for staff and management, maintaining postage meter and coordinating with delivery and courier services.  
 - • Sorted, opened and routed incoming correspondence and deliveries to help senior leaders respond quickly to business and customer requirements.  
@@ -73,7 +73,7 @@ Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis O
 
 ### Admin Support/ VA/ Appointment Setter 
 `2020`
-DIALBOX SOLUTIONS P/L, *Brgy. San Antonio, 17 ADB Ortigas Center Pasig City Philippines*
+__DIALBOX SOLUTIONS P/L, *Brgy. San Antonio, 17 ADB Ortigas Center Pasig City Philippines*__
 - • Lead Generation  
 - • Cold Calling  
 - • Appointment Setting for INXPRESS Freight and Logistics.  
