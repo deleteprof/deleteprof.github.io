@@ -71,15 +71,6 @@ __Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis
 -   • Maintained office supplies inventory by checking stock and ordering new supplies as needed.  
 -   • Wrote and proofread error-free letters, memoranda and other business correspondence.  
 
-### Admin Support/ VA/ Appointment Setter 
-`2020`
-__DIALBOX SOLUTIONS P/L, *Brgy. San Antonio, 17 ADB Ortigas Center Pasig City Philippines*__
--   • Lead Generation  
--   • Cold Calling  
--   • Appointment Setting for INXPRESS Freight and Logistics.  
--   • Admin Immigration Facebook Page for Australia, doing Advertising.  
--   • Making Microsoft Office works for company's operational plan.  
--   • Microsite Admin Support.  
 
 ## Recognitions
 
