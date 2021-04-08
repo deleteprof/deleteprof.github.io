@@ -71,6 +71,18 @@ __Cagayan-Iligan Transport Service Multi-Purpose Cooperative, *Manticao, Misamis
 -   • Maintained office supplies inventory by checking stock and ordering new supplies as needed.  
 -   • Wrote and proofread error-free letters, memoranda and other business correspondence.  
 
+### Inventory Clerk `2012-2013`
+__SOLIDMARK INC., *Pacana-Don Apolinar Velez Sts., Cagayan de Oro City*__
+-   • Counts store inventory for official store records.
+-   • Maintains logs of all products and supplies.
+-   • Checks actual store inventory against computerized records.
+-   • Reports any discrepancies in inventory records to store manager.
+-   • Receives store deliveries.
+-   • Assists in unloading inventory from delivery truck.
+-   • Organizes inventory in stock room.
+-   • Restocks merchandise on sales floor as necessary.
+-   • Files all delivery and inventory receipts.
+-   • Uses inventory software to keep track of orders, returns, and supply.
 
 ## Recognitions
 
