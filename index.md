@@ -88,11 +88,11 @@ __SOLIDMARK INC., *Pacana-Don Apolinar Velez Sts., Cagayan de Oro City*__
 
 
 ## Character References
-### Mr. Alex Munalem
+__Mr. Alex Munalem__
 - Business and Development Executive
 - RC&CO Lawyers
 
-### Ms. Suzzy Angeli Dadole
+__Ms. Suzzy Angeli Dadole__
 - Legal Clerk & Executive Coordinator
 -  RC&CO Lawyers
 
