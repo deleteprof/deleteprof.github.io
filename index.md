@@ -84,6 +84,15 @@ __SOLIDMARK INC., *Pacana-Don Apolinar Velez Sts., Cagayan de Oro City*__
 -   • Restocks merchandise on sales floor as necessary.
 -   • Files all delivery and inventory receipts.
 -   • Uses inventory software to keep track of orders, returns, and supply.
+-   
+## Character References
+__Mr. Alex Munalem
+- Business and Development Executive
+- RC&CO Lawyers
+
+__Ms. Suzzy Angeli Dadole
+- Legal Clerk & Executive Coordinator
+-  RC&CO Lawyers
 
 ## Recognitions
 
